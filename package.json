@@ -1,0 +1,19 @@
+{
+  "name": "@alexeysaulin/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[Cdist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeySaulin/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeySaulin/ajs/issues"
+  },
+  "homepage": "https://github.com/AlexeySaulin/ajs#readme"
+}
